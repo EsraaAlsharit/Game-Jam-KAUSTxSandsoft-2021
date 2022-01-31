@@ -1,4 +1,4 @@
-# game-jam-time-2021
+# Game-Gam-KAUSTxSandsoft-2021
 game jam time 2021
 
 <p> 
