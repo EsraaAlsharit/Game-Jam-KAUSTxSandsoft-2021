@@ -1,4 +1,4 @@
-# Game-Gam-KAUSTxSandsoft-2021
+# Game-Jam-KAUSTxSandsoft-2021
 ### 13 November, 2021
 
 
