@@ -1,9 +1,8 @@
 # Game-Gam-KAUSTxSandsoft-2021
 ## 13 November, 2021
-https://www.youtube.com/watch?v=LjrgEAGKYDQ
 
 <p aligna"center">
- <iframe width="853" height="480" src="https://www.youtube.com/embed/LjrgEAGKYDQ" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture" allowfullscreen></iframe>
+ <iframe width="560" height="315" src="https://www.youtube.com/embed/LjrgEAGKYDQ" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture" allowfullscreen></iframe>
 </p>
 
 This is my first Game jam, it was from KAUST and Sandsoft
